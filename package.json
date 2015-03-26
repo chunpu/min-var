@@ -1,0 +1,12 @@
+{
+  "name": "min-var",
+  "version": "1.0.0",
+  "description": "Smallest var template replace",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test",
+	"readme": "pretty-readme > readme.md"
+  },
+  "author": "",
+  "license": "ISC"
+}
